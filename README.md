@@ -1,3 +1,26 @@
+# Vector Calculator
+![Vector Calculator App](https://raw.githubusercontent.com/CosineDigital/Vector-Calculator/master/image1.png)
+<center>Vector Calculator - a powerful and fast calculator for engineering students</center>
+
+# Features
+- Robust Copy-Paste system for easy and fast calculations
+- Position Vector from P to Q and magnitude
+- Cross Product and magnitude
+- Dot Product
+- Distance from a point P to a line L with point L0
+- Unit Vector and magnitude
+- Scaled Unit Vector
+- Cartesian Cosine Angles
+- Cartesian to Spherical Coordinates
+- Cartesian to Cylindrical Coordinates
+- All values rounded to 3 decimal places
+- Angles given in degrees
+- Easy-to-switch themes via [Dear ImGui](https://github.com/ocornut/imgui)
+
+# Acknowledgements
+- Created using [TheCherno/Walnut](https://github.com/TheCherno/Walnut)
+- More information below
+
 # Walnut
 
 Walnut is a simple application framework built with Dear ImGui and designed to be used with Vulkan - basically this means you can seemlessly blend real-time Vulkan rendering with a great UI library to build desktop applications. The plan is to expand Walnut to include common utilities to make immediate-mode desktop apps and simple Vulkan applications.

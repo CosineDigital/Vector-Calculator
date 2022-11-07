@@ -2,7 +2,7 @@
 ![Vector Calculator App](https://raw.githubusercontent.com/CosineDigital/Vector-Calculator/master/image1.png)
 <center>Vector Calculator - a powerful and fast calculator for engineering students</center>
 
-# Features
+## Features
 - Robust Copy-Paste system for easy and fast calculations
 - Position Vector from P to Q and magnitude
 - Cross Product and magnitude
@@ -17,7 +17,7 @@
 - Angles given in degrees
 - Easy-to-switch themes via [Dear ImGui](https://github.com/ocornut/imgui)
 
-# Acknowledgements
+## Acknowledgements
 - Created using [TheCherno/Walnut](https://github.com/TheCherno/Walnut)
 - More information below
 

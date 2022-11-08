@@ -17,6 +17,9 @@
 - Angles given in degrees
 - Easy-to-switch themes via [Dear ImGui](https://github.com/ocornut/imgui)
 
+## Notes
+- Source code for the Vector Calculator can be found in [WalnutApp/src/WalnutApp.cpp](https://github.com/CosineDigital/Vector-Calculator/blob/master/WalnutApp/src/WalnutApp.cpp)
+
 ## Acknowledgements
 - Created using [TheCherno/Walnut](https://github.com/TheCherno/Walnut)
 - More information below
